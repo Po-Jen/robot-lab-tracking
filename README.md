@@ -1,6 +1,6 @@
 # List of Top Robot Labs
 ## Intro
-A good way to keep up with the newest robot technolory is to follow top labs doing robotic research.  
+A good way to keep up with the newest robot technology is to follow top labs doing robotic research.  
 
 ## Categories
 + Visual Perception: [github](robot-lab-tracking-visual-perception.md)
